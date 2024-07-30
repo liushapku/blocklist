@@ -1,0 +1,6 @@
+||tplinknbu.com^$important
+||iot.i.tplinknbu.com^$important
+||tplinkcloud.com^$important
+
+n-device-api.tplinkcloud.com
+security.iot.i.tplinknbu.com
